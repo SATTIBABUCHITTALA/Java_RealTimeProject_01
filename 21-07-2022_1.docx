@@ -1,0 +1,49 @@
+class Mobile {
+
+chip 
+screen
+simslot 
+speakers 
+rom 
+pixles 
+chargingType 
+
+watchaMovie()
+talktoaFriend();
+text()
+softwareInstallation();
+videoRecording();
+
+
+
+
+
+}
+
+Naming convention:- 
+classes :- Noun class A, class B , class xyz;
+class MobileDetails , Mobile, Human, Laptop,
+
+loginuser();
+logoutuser();
+checkoutProduct();
+addtoCart();
+loginUser(){
+}
+
+stock,login, productsearch, compare ,addtocart,delete, save  checkout,
+ payment, logout
+
+Interfaces:- Serive ---- Employee ---> interface EmployeeService 
+identifiers:- int k, int m, String employeeId; empId; employeeName;
+methods :- getUserDetails();saveUserDetails();
+constants:- USER, USERVALUES,
+sql queries:-public final String  EMPLOYEEDETAILS ="SELECT * FROM EMP WHERE ID=? ";
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+Java Programming Langugage
+
+1. Java Standard Edition (Core Java ) 
+2. Java Enterprise Edition 
+3. Java Micro Edition 
+
+
+Front End and Backend 
+1. Angular or React js or Node js 
+2. Java 
+
+
+Desktop Applications (Core java) 
+Web Applications ( JSP and Servlets  ) 
+Distributed Applications (EE) 
+
+Aadhar card Application (TCS) 
+Passpost Application (IBM) API Endpoints ---> Aadhar card Applcation
+
+Frameworks:- 
+Spring Framework 
+Spring MVC 
+Spring Core 
+Spring ORM 
+Spring Testing 
+
+JPA Repository 
+
+JDBC 
+Hiberante Framework 
+ORM Tools ---> Spring JPA or JPARepository or CRUDRepository 
+
+Spring MVC ---> Database
+
+Build Tool :- Maven or Gradle or Ant 
+pom.xml
+.m2  
+
+Repository / Repo 
+Bitbucket 
+Github 
+SVN 
+
+Spring Boot and Microservices 
+
+Monolithic Application 
+login/logout/ checkout 
+
+Microservices --- Architecture 
+Eureka Service Discovery
+Spring API Gateways ---
+ 
+End goal 
+
+ 
+
+
+
+
+
+ 
