@@ -1,0 +1,54 @@
+3 types of Variables 
+1. static variables 
+2. instance variables 
+3. local variables 
+
+
+class is a blueprint which has multiple methods and variables.
+class Laptop {
+
+
+}
+HP , Dell, Macbook
+Variables :- Variables is data holder which represents certain Data.
+
+class Collge {
+
+int collegeId;
+String collegeName;
+String collegeAddress;
+String chairman;
+
+} 
+GVP College of Enginnering ----Objects 
+class Student {
+
+int studentId;=100;
+String studentName;
+String gradeOftheStudent;  --Instance Variables (or) object level Variables
+static String principalName; ---Class level variables 
+
+void getStudentDetails(){
+
+int stdId; --- Local Variable 
+
+}
+
+}
+1000 students ---- 1000 Objects 
+Student student =new Student();
+student.studentId="101";
+student.studentName ="Satti babu";
+
+Student student2=new Student();
+student2.studentId="102";
+student2.studentName="Harish";
+
+
+
+
+
+
+
+
+
