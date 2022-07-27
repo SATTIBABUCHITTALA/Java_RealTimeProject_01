@@ -1,0 +1,76 @@
+
+
+Front end Developer ----(End user Can see) 
+Backend Developer -----(End user can'see)
+ 
+product based Companies (Flipkart, Amazon) 
+service based Companies (TCS, INFOSYS, Cognizant -----> American Express) 
+Support / Maintenance ( Developed by someone else )-- > Support for the project 
+
+Full Stack Developer 
+FrontEnd Tech Stack ---> HTML, JSP, Bootstrap, Angular, React JS 
+Backend Developer ----> Java, Spring,Spring Boot, Spring MVC,Microservices, Node js
+cloud (AWS , Azure ) 
+Database :- Oracle , Mysql, Postgres, MongoDb (No Sql) 
+
+Tools:- Maven, Github, Bitbucket, JIRA, SonarQube, Jenkins, Nexus Server, Postman, 
+Swagger, Dockers, Kubernetes, Junit, Mockito, Jacocco, Log4j, Splunk
+
+What are the Roles and Responsibilities ? 
+1. Understanding of the Requirements 
+Flipkart :- 
+
+1. Login Functionality (Amrusha) 
+2. Creating an Account ( Satti babu) 
+3. ResetPassword / Forgot Password ( Chenna) 
+4. Category of the Products ( Anil)
+5. organize Products ( 
+6. Product Display 
+7. Buy Option ( Login or not ) 
+8. Checkout Functionality 
+9. Purcahse (Payment Functionality )(Anil M) 
+10. Track Shipment 
+
+2. Requirement Analysis (Validations,mobile number and password 
+(123)min characters/ Max (Business Unit) 
+3. Setup the meetings with the Team Functional Team 
+4. Database Design 
+5. Backend Development (API Design)
+6. Junit (Test ) Mocking 
+8. FrontEnd Development 
+9. Integration(Frontend+Backend)
+10. Integration Testing 
+11. Code Maintain ( Github , Bitbucket) 
+12. Code Review 
+13. Deployment 
+14. Log Monitoring (Splunk) 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
