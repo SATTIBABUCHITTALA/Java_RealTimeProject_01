@@ -1,0 +1,128 @@
+---------- 5 different classes and ----- Write the functionality with in the class
+
+3 Min -- 5 Max
+class is a blueprint which consitsts of certain properties and methods.
+
+Vehicle car;
+Vehicle bike
+Vehicle 
+
+
+class Vehicle {
+
+//varaibles and methods
+int noofWheels //2 wheeler or 4 wheeler
+String typeOfFuel;
+String vehicleId;
+String vehicleName;
+String brand;
+double priceOfTheVehicle;//1248000.50 
+
+
+boolean accelaration();
+onOffTheEngine();
+void lighitingSound();
+double displayTheFuel();
+String playTheMusic();
+boolean acOnOrOff();
+}
+------------------------------------
+Manufacture the Vehicle 
+---------------------------------------
+Object is an instance of a class An object is a realtime entity. 
+1. Baleno
+2. Kia
+3. Swift Dezire 
+-----------------------------------------------------------
+
+Method:- To Accomplish a task 
+returntype methodname(parameters) 
+
+syntax for an creating an object :- 
+classname objectname =new classname();
+
+Vehicle vehicle=new Vehicle();
+Naming Convention:- 
+India
+Satti Babu 
+
+
+class :- Class name should start with capital letter class VehicleDetails 
+
+object:- It should start with Small letter 
+VehicleDetails vehicle =new VehicleDetails();
+Employee a =new Employee ();
+a.getProperty();
+Employee e=new Employee();
+class Veh{
+
+
+}
+Interface:- It provides service to the class.
+
+interface VehicleService{
+
+}
+Constants :-We define constants with all Capital letters 
+PI, 
+final String NAME;
+
+Variables :- Starts with small letter 
+
+String s;
+String abc;
+
+double vehiclePrice;
+String 45eName; --Not valid 
+String _empName; -----valid
+String $employeeName; ---valid max 15 ;
+should start with alphabet, _, $
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
