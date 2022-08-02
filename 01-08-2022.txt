@@ -1,0 +1,32 @@
+class ----> javac ---> java 
+
+IDE ----> Tool 
+
+
+ATM 
+
+=------------------
+Withdraw
+Blance Check
+Deposit 
+print the passbook
+new otp generate 
+otp update 
+mobile number update 
+-------------------------------
+
+https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+
+Intellij IDE 
+https://www.jetbrains.com/idea/download/#section=windows
+
+Python---- Lambda Expression, Functional Interfaces, Stream API 
+Scala ----
+
+Java 1.8 8 Version -----Date API , Predicate 
+Java 11 ---> Modular 
+
+
+
+
+

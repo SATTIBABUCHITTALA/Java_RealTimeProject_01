@@ -1,0 +1,92 @@
+Syntax for a method :-
+
+accessmodifier returntype methodname(parameters) {
+}
+Single Responsiblity Principle:- Each class is responsible for one purpose. 
+
+controller:- /starting point 
+entity/model ----Student , Employee , Library, Customer 
+
+service :- Interface 
+serviceimpl --- class 
+repository
+dao
+daoimpl
+
+package:- 
+
+
+Project (Developers )
+Product (End Users) 
+
+Access Modifiers :- Restricting the data to access . Set Access of the Data 
+1. public :- It is accessable through out the Projet
+2. default:- 
+3. protected
+4. private 
+Parent Class 
+public class Student {
+public String studentName;
+String studentName;
+protected String studentAddress 
+
+
+}
+child Class:- 
+class Library extends Student {
+private String librayId; 
+
+}
+
+
+
+withinthe Class outside class within the package outside package AccesModifier
+yes 		yes 		yes 			yes 	 public 
+yes 		yes 		yes 			No	 Default 
+yes 		No 		Yes 			Yes (child class ) Protected 
+yes 		No 		No 			No  	private 
+
+
+method :- To do a task 
+accessmodifier returntype methodName(Parameters);
+
+int a=10;
+int b=15; 
+
+int k= a+b; //arithemetic Operator 
+assignment operator 
+
+https://www.geeksforgeeks.org/operators-in-java/
+Operators:- 
+Arithmetic Operators:- +, -, *, /, % 
+Logical Operators :- &&, || 
+Bitwise Operators :- &, | 
+Relational Operators:- <,>,<=,>= 
+a<10, a<b, a>=b,a.value ==b.value 
+Ternary Operators :- condition ? true: false; 
+Unary Operators :- ++, --
+Post Increment , Pre Increment 
+Post Decrement, Pre Decrement 
+int k=10;
+int m=k++; //m=10; k=11;  
+int n=++k; //Increments first and Assign later --- pre increment ,n=12,k=12
+
+Shift Operators:- <,<<
+instance of Operators:- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
