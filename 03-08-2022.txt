@@ -1,0 +1,66 @@
+Conditional Statements:- 
+18
+age<17 --- Youngster
+age>17 ----- He is eligible for voting 
+
+if:- Only one block of statements will be executed based on the condition
+
+if(condition){
+
+}
+int age =16;
+if(age<17){ //condition will be true 
+
+}
+--------
+Scanner scr=new Scanner(System.in);
+scr.nextInt();
+scr.readLine();
+
+
+if-else
+int age =-8; //input 
+if(age<17 && age>0 ){  //-8<17
+
+
+} else if(age>17 &&   age<60){
+
+}else{
+System.out.println("Please enter Valid Age !!");
+}
+
+nested if 
+
+
+switch ----
+
+switch(statement/input){
+
+case 1:
+
+case 2:
+
+
+case 3:
+
+
+default:
+
+
+}
+
+
+break 
+
+continue 
+
+for loop
+
+
+while
+
+
+do-while 
+
+
+
