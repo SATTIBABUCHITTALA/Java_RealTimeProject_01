@@ -1,0 +1,105 @@
+
+static variable --- class variable
+
+
+
+static block:- A block which contains one or more satic statements. It helps to declare all static variables.
+This block will be executed before executing the main method. 
+static {
+
+
+
+}
+Typecasting:- Converting one data type value to another datatype value
+
+AutoTypecasting 
+Widening 
+byte----> short ---> int (4bytes)  ----> float (4 bytes) -> double (8 bytes) ---> long (8 bytes)
+
+
+long (8bytes)---> int (4bytes) 
+long --> float 
+//Chenna 
+class EmpDetails{
+
+int salary;
+
+}
+int k=20; //20.08; ///4 bytes 
+
+double d=k; //8 bytes 
+
+int i=(int)d; 
+
+
+
+
+
+
+
+
+EmpDetails emp=new EmpDetails();
+emp.salary;
+
+Widening ------> Lower datatype ---> Higher datatype 
+Narrowing ----> Higher datatype --- > Lower Datatype
+
+int i=20;
+double  f=i; 
+
+int k=(int)f; 
+
+Object --- Super class for all the classes 
+
+String 
+ArrayList 
+
+Employee 
+
+Student emp= (Student)MainClass.getDetails(15, "Student");
+
+Book emp= (Book)MainClass.getDetails(15, "Book");
+
+//Phone 
+//Oppo
+//iphone
+//1+
+//Samsung 
+Object ---> String, Employee, Student 
+
+static class MainClass{
+Object getDetails(String id,String data){  //returntype methodname(Parameters){}
+if(data=="Emp"){
+
+}else if(data =="Student){
+
+}else if(data =="Book"){
+
+}
+
+}
+}
+Student getDetails(String id){
+
+}
+Book getDetails(String id){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

@@ -1,0 +1,105 @@
+
+-------------------------
+
+request ----> search mobile 
+--- Package 
+-----services
+----repository
+
+controller :------ REST Apis --- class 
+
+Bank account--- create 
+Bank account -- delete
+Bank account ---update 
+Bank account ---- Read 
+
+
+CRUD Operations 
+
+get :- Helps to get the data from the db 
+post:- 
+put
+delete 
+
+
+Businesss layer :- Class --Service 
+
+
+
+Repository layer --- Class ---- 
+
+
+database 
+
+--------- OOPS Concepts ----------------------
+Object Oriented Programming Structure 
+1.class -----A class is a blueprint which has certian properties 
+called methods and Variables 
+class Vehicle{
+
+
+}
+
+2.object :- It is a real time entity. 
+iphone 
+1+
+oppo
+realme
+3.interface 
+4.Inheritance:- Aquiring properties of one class to another class 
+class A {
+
+10 methods 
+
+
+30 variable s1000 lines 
+
+}
+class B {
+10 methods 
+
+
+30 variable s1000 lines 
+
+}
+A(Parent class/ Super class  )  --->B (Child Class /sub class ) 
+class B extends A{
+
+
+}
+iphone ---Base class 
+iphone1s ---Derived Class /Subclass /child class 
+iphone 5s
+iphone 6s
+iphoneX (A)
+iphone 11 (B) Intermediat version 
+ipohone 12 (C) 
+iphone12pro
+
+
+A ---> B,C (Independent Classes) 
+
+
+
+
+1. Single Inheritance  (A->B) One class properties are accessed by other class 
+2. Multiple Inheritance (A,B ---> C) ( Two or more independent classes properties are accessed by single class) 
+3. Multi Level Inheritance ( A ---> B---> C)( One class Acts as a superclass and child class) 
+4. Hirarchial Inheritance ( A ---> B, C) (Same class acts as a super class for two or more independent classes)
+5. Hybrid Inheritance (single Inheritance+ Multilevel Inheritance )
+
+100 classes ---Redundancy 
+Grandparents ---> Parents ----> children ---> children 
+
+5.polymorphism
+6.Abstraction 
+7.Encapsulation
+
+
+
+
+
+
+
+
+
