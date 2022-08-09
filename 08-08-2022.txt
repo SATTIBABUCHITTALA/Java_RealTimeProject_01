@@ -26,7 +26,7 @@ Businesss layer :- Class --Service
 
 
 
-Repository layer --- Class ---- 
+Repository layer --- Class ---- Database 
 
 
 database 
@@ -75,6 +75,7 @@ iphoneX (A)
 iphone 11 (B) Intermediat version 
 ipohone 12 (C) 
 iphone12pro
+iphone13
 
 
 A ---> B,C (Independent Classes) 
@@ -86,7 +87,7 @@ A ---> B,C (Independent Classes)
 2. Multiple Inheritance (A,B ---> C) ( Two or more independent classes properties are accessed by single class) 
 3. Multi Level Inheritance ( A ---> B---> C)( One class Acts as a superclass and child class) 
 4. Hirarchial Inheritance ( A ---> B, C) (Same class acts as a super class for two or more independent classes)
-5. Hybrid Inheritance (single Inheritance+ Multilevel Inheritance )
+5. Hybrid Inheritance (single Inheritance+ Multilevel Inheritance ) A---> B---->C,D
 
 100 classes ---Redundancy 
 Grandparents ---> Parents ----> children ---> children 
