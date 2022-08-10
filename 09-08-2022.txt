@@ -1,14 +1,94 @@
-extends 
+------------
+Structure of a project 
+--------------------------
 
 
-class A{
+Model/Entity/DTO(Data Transaction Object)
+
+careeco employeemanagement
+
+com.careeco.employeemanagement.model
+
+public class Employee {
+
+private String employeeName;
+private String employeeId;
+private String employeePhoneNumber;
+
+//by implementing getters and setters 
+set the value
+getter means getting the values 
+
+
+}
+-------------------------------------------------
+com.careeco.employeemanagement.controller 
+controller is going to handle the requests coming from frontend (Angular) Web Applications jsp 
+
+/mobile 
+/clothes
+/furniture 
+-----------------------------------------------------------------------------
+com.careeco.employeemanagement.daoservice (Data Access Object) ---------interface 
+
+interface EmployeeService{
+void getData(); //Method Declaration/
+
+}
+-----------------------------------------------------------
+com.careeco.employeemanagement.daoserviceImpl
+class EmployeeServiceImpl implements EmployeeService {
 
 
 
 }
+---------------------Repository Layer 
+com.com.careeco.employeemanagement.repository 
+------------------------------------------------
 
 
-class B extends A{
+
+Encapsulation :- Providing security to your class memebers . Wrrapping oup whole data into a single unit .
 
 
-}
+class Student {
+
+System.out.println("Sattibabu);
+
+} 
+------------
+Access Modifiers 
+public ---Any one access
+private ----only within the class 
+default---- with in the package 
+protected ----- with in the child class A extends B 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
