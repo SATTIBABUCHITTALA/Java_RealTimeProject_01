@@ -1,0 +1,85 @@
+Encapsulation:- Wrapping up of a whole data into a single unit. securing the attributes
+of a class by declaring as private and 
+
+//DTO, ENTITY, MODEL 
+class CustomerDetails{
+private String custId;
+private String customerName;
+private String accountNumber;
+private double balance;
+
+//we can access those properties through methods
+//setters and getters
+
+public String getCustId(){
+return custId;
+}
+public String setCustId(String id){
+if(login ==")
+custId =id;
+else 
+sout("Invalid Login");
+}
+}
+class EmployeeDetails{
+CustomerDetails customer=new CustomerDetails();
+customer.custId="10189";
+customer.accountNumber ="28968668686";
+customer.blance =2343434;
+
+customer.setCustId("10189");
+}
+
+///git tools 
+//github ---software 
+//centralized repository 
+
+version control
+distributed version control 
+to store our information 
+
+
+OOPS :- 
+class 
+object 
+inheritance
+interface 
+encapsulation
+Abstraction :- Hiding the irrelavant data from the user 
+object.getItem("10");
+Polymorphism:- Same method will work differently in different situations
+
+class Item{
+//6 months 
+item.getData("104f");
+item.getData("104f");
+item.getData("104f","Mobile");
+void getData(String itemId){
+
+}
+void getData(String itemId, String itemName){
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
