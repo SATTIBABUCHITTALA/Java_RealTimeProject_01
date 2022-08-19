@@ -1,0 +1,107 @@
+
+https://desktop.github.com/
+https://git-scm.com/downloads
+
+Repository 
+
+github.com
+Central / Remote Repository
+
+It will be created in our local system
+Local Repository 
+
+Git Commands:- 
+>git clone https://github.com/SATTIBABUCHITTALA/BookManagementSystem.git
+
+3 Types of Files :- 
+untracked files :- Newly created files untracked files (red color)
+unstaged files :- Modified files (green color)
+staged files :- git add (git commit -m "INVENT-5644 | @Schitta | new files"
+
+git status :- To know the status of our current repository
+git push -u origin  
+$ git commit -m "Added one new file "
+
+
+
+1. Create a Repository 
+2. git clone "https://github.com/SATTIBABUCHITTALA/BookManagement.git"
+3. git status 
+4. git add *
+5. git commit -m "message"
+6. git push -u origin 
+
+Interface :- 
+
+multple inheritance A,B --> C 
+
+class A{
+
+void getData(){}
+}
+class B {
+
+void getData(){}
+
+}
+class C extends A,B{
+
+
+}
+C c=new C();
+c.getData();
+Interface :- It is a mechanism to achieve the Abstraction and Encapsulation. 
+
+interface StudentService{
+void getData(); //abstract methods 
+
+}
+
+class StudentServiceImpl implements StudentService{
+
+
+
+}
+package :- Collection of classes and interface 
+
+Package name is always in small characters
+ 
+com.tcs.icomply.model
+com.tcs.icomply.studentservice
+com.tcs.icomply.studentserviceimpl
+com.tcs.icomply.mainpackage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
