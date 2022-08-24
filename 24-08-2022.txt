@@ -1,0 +1,37 @@
+String functions :- 
+String:- Sequence of Characters String str ="Sattibabu";
+str = {'s','a','t','t','i','b','a','b','u'}
+
+String is an Immutable class 
+
+
+String str="Sattibabu"; //String constant pool
+
+str="Satti babu chittala";
+
+String str=new String();
+
+equals();
+equalsIgnoreCase();
+
+StringBuffer buffer =new StringBuffer();
+
+StringBuilder builder =new StringBuilder();
+
+
+String str="Hello world Thanks you for joining";
+StringTokenizer token=new StringTokenizer(" ");
+str.toCharArray();
+
+
+https://www.youtube.com/watch?v=Uszj_k0DGsg
+
+
+
+
+
+
+
+
+
+
