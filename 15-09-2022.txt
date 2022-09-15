@@ -1,0 +1,51 @@
+try 
+catch
+finally:- 
+
+Date date="
+Checked Exceptions:- IoException,FileNotFoundException
+Unchecked Exceptions :- Runtime Exception,
+ArrayIndexOutofBoundException
+NullpointerException
+ClasscastException
+IllegalstateException
+
+
+
+class Exp{
+String str="Satti        "; //null
+
+void getData(){
+
+
+}
+
+}
+Exp exp=new Exp();
+if(!Objects.isNull(exp.str)){
+
+
+}
+
+
+if(!exp.str.isEmpty()) //null and empty 
+ exp.str.equals("Satti");
+
+null.equals(
+
+obj=null;
+
+obj.getData();
+
+
+
+main(){
+try{
+obj.getData();
+}catch(){
+}
+}
+
+
+
+

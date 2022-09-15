@@ -1,0 +1,81 @@
+Exception Handling :- 
+Exception is something which terminates the program abruptly. The mechanism we use to handle that exception is called
+Exception Handling 
+10000 deduct
+
+24 hours money credit 
+
+1000 lines 
+
+
+5th line ---------
+
+995 lines 
+
+
+Arithmetic Exception happend in class ExceptionHandling line no 33.
+
+This is not working please visit after sometime. 
+
+
+
+1234 
+rtts
+
+try,catch, finally blocks
+try:- We will keep the erranious code inside this block.
+catch:- Catch block is used to handle the Exception 
+finally block:- is used to execute the must executable statements. 
+
+try{
+
+}catch(){
+
+}finally{
+
+}
+Object 
+
+Throwable 
+
+Exception 
+Types of Exceptions:- 
+
+1. checked Exceptions
+2. Unchecked Exceptions
+
+
+
+ArithmeticException:-0/1,1/0, 
+
+NullException:- Object 
+
+ArrayIndexOutofBoundException:- 10 elements 11 th elements
+
+ClassNotFoundException:- 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
